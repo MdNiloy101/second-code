@@ -6,6 +6,6 @@ input[type="text"]{
     border: 1px solid red;
     border-radius: 5px;
 }
-h3{
+h3.o{
     text-decoration: underline wavy black;
 }
