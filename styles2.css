@@ -1,0 +1,11 @@
+input{
+    margin-bottom: 3px;
+    display: block;
+}
+input[type="text"]{
+    border: 1px solid red;
+    border-radius: 5px;
+}
+h3{
+    text-decoration: underline wavy black;
+}
